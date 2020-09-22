@@ -1,0 +1,7 @@
+MJF enclosure_body    1 3dhubs.com
+MJF enclosure_cap     1 3dhubs.com
+PCB Assembly          1 pcbway.com
+Tactile Sensor        1 FSR406-Short (interlinkelectronics.com)
+1/4-20 Nut            1 1LAJ5 (Greinger)
+Double-sided tape     1 9628FL-1/2 (Mouser)
+Epoxy                 1 4YKT2 (Greinger)
